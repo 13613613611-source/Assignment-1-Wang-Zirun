@@ -1,0 +1,44 @@
+======================================================================
+WIKIPEDIA DATA QUALITY REPORT
+Generated: 2026-02-06 14:02:42 UTC
+======================================================================
+
+----------------------------------------------------------------------
+SUMMARY
+----------------------------------------------------------------------
+Total records processed:     97
+Valid records:               97 (100.0%)
+Invalid records:             0 (0.0%)
+
+----------------------------------------------------------------------
+FIELD COMPLETENESS
+----------------------------------------------------------------------
+Field                        Present    Missing          %
+------------------------------------------------------------
+wiki_title                [REQUIRED]         97          0     100.0%
+wiki_url                  [REQUIRED]         97          0     100.0%
+name                      [RECOMMENDED]         97          0     100.0%
+description               [RECOMMENDED]         97          0     100.0%
+birth_date                [RECOMMENDED]         94          3      96.9%
+death_date                [RECOMMENDED]         80         17      82.5%
+birth_place               [RECOMMENDED]         43         54      44.3%
+death_place               [RECOMMENDED]         13         84      13.4%
+profession                [RECOMMENDED]         40         57      41.2%
+citizenship               [RECOMMENDED]         13         84      13.4%
+known_for                 [RECOMMENDED]         38         59      39.2%
+fields                    [RECOMMENDED]         18         79      18.6%
+education                 [RECOMMENDED]         48         49      49.5%
+spouse                    [RECOMMENDED]         61         36      62.9%
+children                  [RECOMMENDED]         52         45      53.6%
+awards                    [RECOMMENDED]         43         54      44.3%
+institutions              [RECOMMENDED]         18         79      18.6%
+thesis                    [RECOMMENDED]          9         88       9.3%
+doctoral_advisor          [RECOMMENDED]          8         89       8.2%
+categories                [OPTIONAL]          0         97       0.0%
+family                    [OPTIONAL]         10         87      10.3%
+academic_advisor          [OPTIONAL]          8         89       8.2%
+
+
+======================================================================
+END OF REPORT
+======================================================================
