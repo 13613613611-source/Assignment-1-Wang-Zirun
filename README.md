@@ -5,7 +5,6 @@ A comprehensive biographical dataset containing 97 notable historical figures, s
 ## 📁 Project Structure
 
 ```
-DATA2/
 ├── famous_people_wikipedia.json       # Raw scraped data from Wikipedia
 ├── claened_famous_people_wikipedia.json # Cleaned and normalized data
 ├── quality_report.txt                  # Data quality validation report
@@ -288,3 +287,4 @@ python validator.py
 ## 📄 License
 
 This dataset is generated for educational and research purposes using publicly available Wikipedia data.
+
